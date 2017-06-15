@@ -1,6 +1,6 @@
 # Word Counter using Java and Apache Spark
 
-We've been used Apache Spark within Eclipse Neon 3.0 (with Java 8) as a dependency of Maven to build a Word Counter. Access the ![Maven Repository](https://mvnrepository.com/) and search for Spark. We used Spark Version 2.1.0, but you can choose another version. After chhosing your version, copy and paste the Maven dependency within the pom.xml file on Eclipse:
+We've been used Apache Spark within Eclipse Neon 3.0 (with Java 8) as a dependency of Maven to build a Word Counter. Access the [Maven Repository](https://mvnrepository.com/) and search for Spark. We used Spark Version 2.1.0, but you can choose another version. After chhosing your version, copy and paste the Maven dependency within the pom.xml file on Eclipse:
 
 ```
 <dependencies>
@@ -12,7 +12,7 @@ We've been used Apache Spark within Eclipse Neon 3.0 (with Java 8) as a dependen
 </dependencies>
 ```
 
-Salve and wait to download all the dependencies. You also need to have the Hadoop configured on your system. To do so, if you're using Windows, go to ![Hadoop 2.6.0 Windows 64-bit Binarie](https://www.barik.net/archive/2015/01/19/172716), download and unpack the file:
+Salve and wait to download all the dependencies. You also need to have the Hadoop configured on your system. To do so, if you're using Windows, go to [Hadoop 2.6.0 Windows 64-bit Binarie](https://www.barik.net/archive/2015/01/19/172716), download and unpack the file:
 
 ```
 hadoop-2.6.0-tar.gz
